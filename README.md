@@ -3,4 +3,4 @@
 
 **Objetivo:** Objetivo deste projeto foi pratica o que foi visto nas aulas do modulo 01. 
 
-**Aprendemos** Sobre as Tags de listas, títulos, parágrafos, Tags semânticas, CSS Básico e outros;
+**Aprendemos** Sobre as Tags de listas, títulos, parágrafos, Tags semânticas, CSS Básico e  outros;
