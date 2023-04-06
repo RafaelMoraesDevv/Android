@@ -5,6 +5,6 @@
 
 **Aprendemos** Sobre as Tags de listas, títulos, parágrafos, Tags semânticas, CSS Básico e  outros;
 
-Primeiro desafio do Curso em Vídeo com o professor Gustavo Guanabara...
+Primeiro desafio do Curso em Vídeo com o professor Gustavo Guanabara.
 ![Imagem do site](./assets/imagens/foto-do-site.png)
 
